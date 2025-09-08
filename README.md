@@ -18,6 +18,6 @@ A simple text-based adventure game written in Python.
 5. Make your adventure choices (sword or staff, left or right, swim or cross).
 
 🎮 Features
-Interactive player input
-Multiple story paths and endings
-Quick and replayable gameplay
+1. Interactive player input
+2. Multiple story paths and endings
+3. Quick and replayable gameplay
